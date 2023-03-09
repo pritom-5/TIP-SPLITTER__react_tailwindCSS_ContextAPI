@@ -6,7 +6,21 @@ Split bills among friends with simple and easy to use App. React and Tailwind-CS
 
 # App Demo:
 
-![Bill-Splitter](./public/screenshots/splitter_001.gif)
+<br/>
+
+## Big screens:
+
+<br/>
+
+![Bill-Splitter-01](./public/screenshots/splitter_001.gif)
+
+<br/>
+
+## Small screens:
+
+<br/>
+
+![Bill-Splitter-02](./public/screenshots/splitter_002.gif)
 
 <br/>
 
